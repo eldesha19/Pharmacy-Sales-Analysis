@@ -14,23 +14,23 @@ Each column represents a product, and each row represents monthly sales data ove
 
 🧰 Tools & Techniques Used
 
-Excel 2019
+  - Excel 2019
 
-Power Query (for data cleaning & transformation – Unpivot Columns)
+  - Power Query (for data cleaning & transformation – Unpivot Columns)
 
-Pivot Tables (for aggregation and trend analysis)
+  - Pivot Tables (for aggregation and trend analysis)
 
-Charts (Line, Bar, and Pie charts for visual insights)
+  - Charts (Line, Bar, and Pie charts for visual insights)
 
-Dashboard design (to summarize all insights in one view)
+  - Dashboard design (to summarize all insights in one view)
 
 🔍 Key Insights
 
-Seasonality: Noticed a consistent sales drop in Quarter 2 each year.
+  - Seasonality: Noticed a consistent sales drop in Quarter 2 each year.
 
-Growth Rate: Highest growth recorded in Q1 2017, while the lowest was in Q4 2019.
+  - Growth Rate: Highest growth recorded in Q1 2017, while the lowest was in Q4 2019.
 
-Top Contributors: Certain medicines contribute a significant portion of total revenue, highlighting key products to prioritize in inventory and marketing.
+  - Top Contributors: Certain medicines contribute a significant portion of total revenue, highlighting key products to prioritize in inventory and marketing.
 
 👨‍💻 About Me
 
